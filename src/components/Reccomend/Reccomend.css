@@ -1,5 +1,6 @@
 .recomend {
   flex-basis: 30%;
+  overflow: hidden;
 }
 
 .side-video-list {

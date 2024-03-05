@@ -1,5 +1,6 @@
 .play-video {
   flex-basis: 69%;
+  overflow: hidden;
 }
 
 .play-video iframe {
